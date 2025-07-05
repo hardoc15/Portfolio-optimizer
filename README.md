@@ -37,7 +37,7 @@ An interactive and professional-grade portfolio optimization tool built using **
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/portfolio-optimizer.git
+git clone https://github.com/hardoc15/portfolio-optimizer.git
 cd portfolio-optimizer
 python3 -m venv .venv
 source .venv/bin/activate
